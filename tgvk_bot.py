@@ -14,14 +14,14 @@ from telethon.tl.types import InputFile
 D = 2 # - за сколько дней выполнять проверку?
 
 # VK API
-VK_GROUP_ID = '186471220'  # ID твоего сообщества # 186471220 - Радиус # 229790854 - моя тест группа
-VK_ACCESS_TOKEN = 'vk1.a.F2xp9MbrseeqLSPuJqSX0pNjUiQKFcgS9TI15oiwYr5ccEQ3AzPPK6H0Fj2PolaPrjN4K1XerFB6wmBXk9pX0VVbgyIiNC3RGy3t-GjHjG5QfT6BF45oNHSPPvtiuv98_xNxa2nyAEdi7QCP-0PvvgwgzVigmqowHa6BVpihAFWQGEvgRJKxsvRl2g85xRS8BtI8oZsNYW3mh-tn3aQylA'
+VK_GROUP_ID = 'ur_data'  # ID твоего сообщества # 186471220 - Радиус # 229790854 - моя тест группа
+VK_ACCESS_TOKEN = 'ur_data'
 
 
 # Telegram API
-TELEGRAM_API_ID = '22646857'
-TELEGRAM_API_HASH = '91c49d10054720b9f29f319746124c70'
-TELEGRAM_BOT_TOKEN = '7633938147:AAHLO5AwGjx80ltPyNLVsFZXixW28BOWAmU'
+TELEGRAM_API_ID = 'ur_data'
+TELEGRAM_API_HASH = 'ur_data'
+TELEGRAM_BOT_TOKEN = 'ur_data'
 TELEGRAM_CHANNEL = '@VSK_RadiusTeam'  # Юзернейм канала или ID #@VSK_RadiusTeam #@bot_tg_test_1
 
 # Подключение к VK API
